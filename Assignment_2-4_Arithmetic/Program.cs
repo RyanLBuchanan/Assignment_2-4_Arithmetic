@@ -11,6 +11,9 @@ namespace Assignment_2_4_Arithmetic
             int number1;
             int number2;
             int sum;
+            int product;
+            int difference;
+            int quotient;
 
             // Prompt user
             Console.WriteLine("Enter first integer: ");
@@ -25,8 +28,26 @@ namespace Assignment_2_4_Arithmetic
             // Sum integers
             sum = number1 + number2;
 
+            // Multiply integers
+            product = number1 * number2;
+
+            // Subtract integers
+            difference = number1 - number2;
+
+            // Divide numbers
+            quotient = number1 / number2;
+
             // Display sum
-            Console.WriteLine($"Sum is {sum}");
+            Console.WriteLine($"Sum = {sum}");
+
+            // Display product
+            Console.WriteLine($"Product = {product}");
+
+            // Display sum
+            Console.WriteLine($"Difference is {difference}");
+
+            // Display sum
+            Console.WriteLine($"Quotient is {quotient}");
         } // End Main
     } // End Class Addition
 }
