@@ -1,0 +1,14 @@
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\bin\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.exe
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\bin\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.deps.json
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\bin\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.runtimeconfig.json
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\bin\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.runtimeconfig.dev.json
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\bin\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.dll
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\bin\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.pdb
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\obj\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.csproj.AssemblyReference.cache
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\obj\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\obj\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.AssemblyInfoInputs.cache
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\obj\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.AssemblyInfo.cs
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\obj\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\obj\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.dll
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\obj\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.pdb
+C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-4_Arithmetic\Assignment_2-4_Arithmetic\obj\Debug\netcoreapp3.1\Assignment_2-4_Arithmetic.genruntimeconfig.cache
